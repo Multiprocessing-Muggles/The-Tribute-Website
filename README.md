@@ -1,5 +1,8 @@
 # The Tribute Page
 
-![image](https://user-images.githubusercontent.com/66564001/162964629-f5c82ab7-6337-4b77-abb1-05d564f4a178.png)
+![image](https://user-images.githubusercontent.com/66564001/162982274-1a859a15-4f60-4f10-98bd-81038d8a8579.png)
 
-![image](https://user-images.githubusercontent.com/66564001/162964733-493129d9-f48e-4497-b7b2-ac9a4aa776ea.png)
+
+
+![image](https://user-images.githubusercontent.com/66564001/162982107-97827838-119b-42f9-88ff-e589915c7c51.png)
+

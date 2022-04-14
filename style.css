@@ -7,3 +7,10 @@ body {
 .container {
   border: 10px solid rgb(4, 4, 37);
 }
+.last-section{
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 30px;
+  word-spacing : 1px;
+  padding : 20px ;
+}

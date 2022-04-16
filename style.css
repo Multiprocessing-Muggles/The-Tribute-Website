@@ -30,3 +30,9 @@ p{
   word-spacing: 10%;  
   letter-spacing: 0.60px;
 }
+
+footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}

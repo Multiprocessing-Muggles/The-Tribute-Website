@@ -3,6 +3,29 @@ body {
   margin: 0px;
   border: 0px;
 }
+.top-section{
+  display: flex;
+}
+img{
+  position: relative;
+  left: 100%;
+  top: 10%;
+  align-items: center;
+  padding-left: 5%;
+  border-radius: 80%;
+}
+.Names {
+  font-size: large;
+  position: relative;
+  left:18%;
+  top: 250px;
+}
+.Names h4{
+  position: relative;
+  bottom: 10%;
+  font-size: 120%;
+  text-align: right;
+}
 
 .container {
   border: 10px solid rgb(4, 4, 37);

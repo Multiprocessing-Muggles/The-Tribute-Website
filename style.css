@@ -32,5 +32,5 @@ p{
 }
 
 footer p{
-  float:right;
+  text-align:end;
 }

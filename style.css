@@ -31,8 +31,6 @@ p{
   letter-spacing: 0.60px;
 }
 
-footer {
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-end;
+footer p{
+  text-align:end;
 }

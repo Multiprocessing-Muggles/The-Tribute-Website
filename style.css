@@ -7,6 +7,26 @@ body {
 .container {
   border: 10px solid rgb(4, 4, 37);
 }
+.top-section{
+  margin-top: 1%;
+  padding-left: 10%;
+  margin-bottom: 0%;
+  padding-bottom: 80px;
+  
+}
+img {
+    margin-top: 1%;
+    border-radius: 50%;
+    border: 5px solid black;
+    float: left;
+    
+}
+.top-name{
+  margin-top: 0px;
+  padding-top: 14%;
+  padding-left: 40%;
+  margin-bottom: 0%;
+}
 .last-section{
   font-size: 16px;
   font-family: "Times New Roman", Times, serif;

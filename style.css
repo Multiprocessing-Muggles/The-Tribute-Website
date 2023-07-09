@@ -1,11 +1,15 @@
-body {
+* {
   background-color: #e5e5fd;
   margin: 0px;
   border: 0px;
+  
 }
+
+
 
 .container {
   border: 10px solid rgb(4, 4, 37);
+
 }
 .last-section{
   font-size: 16px;
@@ -34,3 +38,58 @@ p{
 footer p{
   text-align:end;
 }
+
+
+
+.top-section .image{
+  display: inline
+}
+
+.middle-section{
+  margin:auto;  
+  width:800px;
+  text-align: justify;
+}
+.last-section{
+  margin:auto;  
+  width:800px;
+  text-align: justify;
+}
+.top-section {
+  
+  margin:auto;  
+  width:800px;
+  text-align: justify;
+  padding-top:80px
+  
+
+}
+
+ .oval-image{
+
+  border-radius: 50%;
+  
+  
+}
+.image{
+  float:left;
+  margin-right:1px;
+}
+.clr{
+  clear:both;
+}
+
+
+.text{
+  position:relative;
+  left:300px;
+  top:-100px
+  
+}
+.shift-down{
+  position:relative;
+  left:190px
+}
+
+
+
